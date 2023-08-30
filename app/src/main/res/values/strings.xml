@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add_img">add_img</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="date">Date</string>
+    <string name="add_note">ADD NOTE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="text_size">Text Size</string>
+    <string name="dark_mode_on_off">Dark Mode</string>
+    <string name="normal_large">Normal/Large</string>
+    <string name="off_on">Off/On</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="column_view">Column View</string>
+    <string name="max_line">Max Line</string>
+    <string name="_5">5</string>
+    <string name="_10">10</string>
+    <string name="_15">15</string>
+    <string name="delete">Delete</string>
+
+</resources>
